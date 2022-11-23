@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Actividades de documentación y entrega de <em>software</em> en proceso de implantación',
     descripcionCurso:
-      'En este componente formativo se presentan los elementos que se incluyen en la documentación para la implantación de software. La fase final de puesta en marcha de un proyecto de software corresponde a la configuración, instalación e integración del <em>software</em> y del <em>hardware</em> como componentes esenciales del montaje en las plataformas, además, de los componentes desarrollados por parte del cliente o propietario.',
+      'En este componente formativo se presentan los elementos que se incluyen en la documentación para la implantación de <em>software</em>. La fase final de puesta en marcha de un proyecto de <em>software</em> corresponde a la configuración, instalación e integración del <em>software</em> y del <em>hardware</em> como componentes esenciales del montaje en las plataformas, además, de los componentes desarrollados por parte del cliente o propietario.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -178,12 +178,13 @@ export default {
   glosario: [
     {
       termino: 'Despliegue',
-      significado: 'Proceso de puesta en marcha o ejecución de software.',
+      significado:
+        'Proceso de puesta en marcha o ejecución de <em>software</em>.',
     },
     {
       termino: 'ERP',
       significado:
-        'Enterprise Resource Planning (software de planeación de recursos empresariales).',
+        '<em>Enterprise Resource Planning</em> (<em>software</em> de planeación de recursos empresariales).',
     },
     {
       termino: '<em>Frameworks</em>',
@@ -246,7 +247,7 @@ export default {
     },
     {
       referencia:
-        'Ugur, A. (2009). How to write a software installation guide.',
+        'Ugur, A. (2009). How to write a <em>software</em> installation guide.',
       link:
         'https://www.technicalcommunicationcenter.com/online-classes/how-to-write-a-software-installation-guide/',
     },

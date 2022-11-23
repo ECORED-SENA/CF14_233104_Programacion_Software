@@ -19,7 +19,7 @@
               figure
                 img(src="@/assets/curso/recursos/rectangle_00.svg/", alt="alt").img30.m-auto
             .col-lg
-              p La documentación es el registro de todos los pasos necesarios “cómo” se realizan; el desarrollo de software es esencialmente un grupo de procesos interrelacionados, por lo cual es importante llevar una correcta documentación de los procesos en los formatos establecidos.
+              p La documentación es el registro de todos los pasos necesarios “cómo” se realizan; el desarrollo de #[em software] es esencialmente un grupo de procesos interrelacionados, por lo cual es importante llevar una correcta documentación de los procesos en los formatos establecidos.
     
     p(data-aos="fade-left").mb-4 Este proceso de implantación es la última fase dentro de la aplicación de una metodología para implementar un proyecto que antes debió considerar una fase de prueba. Aunque todas las labores para llegar a este estado se han realizado arduamente, esta fase de implementación puede considerarse como la más compleja. 
 
@@ -176,12 +176,12 @@
                 ul.fa-ul.mb-0
                   li
                     i.fa-li.fas.fa-check-circle.txt--orange02
-                    | Despliegue del software
+                    | Despliegue del #[em software]
                 .hr_line  
                 ul.fa-ul.mb-0                   
                   li
                     i.fa-li.fas.fa-check-circle.txt--orange02
-                    | Pruebas y tuning
+                    | Pruebas y #[em tuning]
                 .hr_line  
                 ul.fa-ul.mb-0                   
                   li
@@ -215,7 +215,7 @@
             figure
               img(src="@/assets/curso/recursos/rectangle_00.svg/", alt="alt").img30.m-auto
           .col-lg
-            p.mb-0 En una solución de software o de un sistema de información por procesamiento electrónico de datos, los manuales técnicos tienen el objetivo de mostrar, informar, esclarecer las estructuras que conforman la aplicación y cómo fue construida. Se dirige, especialmente, al personal técnico: desarrolladores de software, técnicos en sistemas, ingenieros de infraestructura y redes, arquitectos de software e ingenieros de pruebas, entre otros, quienes manejan la aplicación o el componente formativo. 
+            p.mb-0 En una solución de #[em software] o de un sistema de información por procesamiento electrónico de datos, los manuales técnicos tienen el objetivo de mostrar, informar, esclarecer las estructuras que conforman la aplicación y cómo fue construida. Se dirige, especialmente, al personal técnico: desarrolladores de #[em software], técnicos en sistemas, ingenieros de infraestructura y redes, arquitectos de #[em software] e ingenieros de pruebas, entre otros, quienes manejan la aplicación o el componente formativo. 
 
         p.mb-4 Se recomienda que en su estructura se presenten los siguientes aspectos:
 
@@ -251,7 +251,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.order-2.order-lg-1
           .bloque-texto-a__texto.p-4
-            p.mb-0 Basados en el ciclo de vida del desarrollo de software que normalmente se aplica en la elaboración de los sistemas de información por procesamiento electrónico de datos, es de vital importancia que la documentación técnica y de operaciones de una organización se registre en el manual técnico, el cual llevará una secuencia lógica de implementación para la instalación, configuración y despliegue. Este debe describir como mínimo los siguientes elementos:
+            p.mb-0 Basados en el ciclo de vida del desarrollo de #[em software] que normalmente se aplica en la elaboración de los sistemas de información por procesamiento electrónico de datos, es de vital importancia que la documentación técnica y de operaciones de una organización se registre en el manual técnico, el cual llevará una secuencia lógica de implementación para la instalación, configuración y despliegue. Este debe describir como mínimo los siguientes elementos:
         .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
           figure
             img(src="@/assets/curso/temas/t1/t1_17.svg", alt="alt")
@@ -293,8 +293,8 @@
           .col-lg-7.mb-4.mb-lg-0.ps-5.ps-lg-2.position-relative
             .cont
               .numb(data-number="04")
-              h4 Frameworks y estándares
-              p Nombres y versiones de los frameworks y estándares bajo los cuales está construido el sistema. 
+              h4 #[em Frameworks] y estándares
+              p Nombres y versiones de los #[em frameworks] y estándares bajo los cuales está construido el sistema. 
           .col-lg-4.col-8
             figure
               img(src='@/assets/curso/temas/t1/t1_21.svg', alt='')
@@ -332,7 +332,7 @@
             .cont
               .numb(data-number="07")
               h4 Diccionario de datos
-              p Diccionario de datos del sistema 
+              p Diccionario de datos del sistema.
           .col-lg-4.col-8
             figure
               img(src='@/assets/curso/temas/t1/t1_23.svg', alt='')
@@ -344,8 +344,8 @@
           .col-lg-7.order-1.order-lg-2.ms-lg-5.ps-5.ps-lg-2.position-relative
             .cont
               .numb(data-number="08")
-              h4 Scripts
-              p Scripts de instalación del sistema
+              h4 #[em Scripts]
+              p #[em Scripts] de instalación del sistema.
 
         .row.justify-content-center.align-items-center.pt-5
           .col-lg-7.mb-4.mb-lg-0.ps-5.ps-lg-2.position-relative
@@ -365,7 +365,7 @@
                   | Documento de requerimientos.
                 li
                   i.fa-li.fas.fa-check-circle.txt--orange02
-                  | Acumulado del producto (product backlog  en la herramienta de Gestión de proyectos de desarrollo de software).
+                  | Acumulado del producto (#[em product backlog] en la herramienta de Gestión de proyectos de desarrollo de #[em software]).
 
           .col-lg-4.col-8
             figure
@@ -379,7 +379,7 @@
               figure
                 img(src="@/assets/curso/recursos/rectangle_00.svg/", alt="alt").img30.m-auto
             .col-lg
-              p.mb-0 Al mismo tiempo es importante tener en cuenta que según el Ministerio TIC (2018), en este documento #[span.hglt_yellow queda plasmada toda la información del proyecto de software, con una descripción bien detallada sobre las características técnicas y físicas de cada elemento; este manual va dirigido al administrador del sistema y a otros ingenieros para que puedan hacer un respectivo mantenimiento en caso de que sea necesario;] estos también contendrán la siguiente información:
+              p.mb-0 Al mismo tiempo es importante tener en cuenta que según el Ministerio TIC (2018), en este documento #[span.hglt_yellow queda plasmada toda la información del proyecto de #[em software], con una descripción bien detallada sobre las características técnicas y físicas de cada elemento; este manual va dirigido al administrador del sistema y a otros ingenieros para que puedan hacer un respectivo mantenimiento en caso de que sea necesario;] estos también contendrán la siguiente información:
           
         .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
           figure
@@ -419,7 +419,7 @@
                 td Sistema(s) operativos(o) sobre los cuales funciona actualmente el sistema de información.
               tr
                 td Lenguaje de programación
-                td Lenguajes de programación y frameworks sobre los cuales fue construido el sistema de información. Ejemplos, Java 7, C#.Net framework 4.5, PHP 5.3, etc.
+                td Lenguajes de programación y #[em frameworks] sobre los cuales fue construido el sistema de información. Ejemplos, Java 7, C#.Net framework 4.5, PHP 5.3, etc.
               tr.cell--gray  
                 td Plataforma de base de datos
                 td Ejemplo, Oracle, SQL server, Postgres, MySQL, entre otros.
@@ -428,7 +428,7 @@
                 td Indique la ubicación (URL) de la documentación detallada técnica y funcional del sistema (arquitectura, manuales, diseños, etc.).
               tr.cell--gray  
                 td Arquitectura tecnológica
-                td Stand alone, Web, cliente servidor, App móvil, software as a service (nube), etc.
+                td Stand alone, Web, cliente servidor, App móvil, #[em software] as a service (nube), etc.
 
     separador
 
@@ -514,7 +514,7 @@
           img(src="@/assets/curso/temas/t1/t1_28.png", alt="alt")
 
       .col-lg-8(data-aos="fade-left")
-        p Un manual de instalación de software corresponde a un documento técnico del paso a paso en orden secuencial y lógico, en donde se describe de manera detallada los componentes necesarios e instrucciones para instalar el software. 
+        p Un manual de instalación de #[em software] corresponde a un documento técnico del paso a paso en orden secuencial y lógico, en donde se describe de manera detallada los componentes necesarios e instrucciones para instalar el #[em software]. 
 
         .row.mb-4
           .col-auto.d-none.d-lg-flex
@@ -535,7 +535,7 @@
               figure.mb-4
                 img(src="@/assets/curso/temas/t1/t1_29.svg", alt="alt").img90.m-auto   
               h4.text-center.mb-4 Componentes            
-              p.text-center Conjunto de elementos de hardware, software e infraestructura de red requeridos por el sistema de información.
+              p.text-center Conjunto de elementos de #[em hardware], #[em software] e infraestructura de red requeridos por el sistema de información.
 
           .col-lg-4.col-md-8.col-10.mb-4.mb-lg-0(data-aos="flip-left")
             .crd.bg--white.brd--rad_02.shadow.p-4
@@ -565,7 +565,7 @@
         figure
           img(src="@/assets/curso/temas/t1/t1_32.png", alt="alt")
       .col-lg-7(data-aos="fade-left")
-        p Se debe detallar qué tipo de hardware o firmware se necesita para instalar este software, se especifica el sistema operativo Mac OS X o Windows 10 en el que puede funcionar. 
+        p Se debe detallar qué tipo de #[em hardware] o #[em firmware] se necesita para instalar este #[em software], se especifica el sistema operativo Mac OS X o Windows 10 en el que puede funcionar. 
         p.mb-0 A continuación se presentan los requisitos mínimos para instalar el sistema operativo Windows 11 según Microsoft (2021):
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
@@ -586,7 +586,7 @@
                 td Almacenamiento
                 td Dispositivo de almacenamiento de 64 GB o más. Nota: para más información, consulte abajo en “Más información sobre los requisitos de espacio de almacenamiento para mantener Windows 11 actualizado”.
               tr.cell--gray  
-                td firmware del sistema
+                td #[em Firmware] del sistema
                 td UEFI, compatible con arranque seguro. 
               tr
                 td Tarjeta gráfica
@@ -614,12 +614,13 @@
               img(src="@/assets/curso/temas/t1/t1_33.svg", alt="alt")
           .col-xl-7
             h4 Descripción general de las características del sistema o del producto
-            p Se describen las características básicas del software o del producto en cuestión, por lo general se usa una lista o una tabla. Ejemplo, en un software de telefonía IP (comunicación), se debe indicar cuántas líneas admite el software, cuántos usuarios y contraseñas admite, el tipo de base de datos que necesita, cuántas zonas o particiones soporta, etc.
+            p Se describen las características básicas del #[em software] o del producto en cuestión, por lo general se usa una lista o una tabla. 
+            p Ejemplo, en un #[em software] de telefonía IP (comunicación), se debe indicar cuántas líneas admite el #[em software], cuántos usuarios y contraseñas admite, el tipo de base de datos que necesita, cuántas zonas o particiones soporta, etc.
 
             .bg--gray.pt-4.p-5.mb-4   
               .quote           
                 i.fas.fa-quote-left              
-              p.ps-4.mb-2 Siempre son importantes los datos de contacto del desarrollador o de la empresa que creó la solución informática o con el departamento de atención al cliente, dado el caso que se presente alguna duda relacionada con el producto, garantía, registro, etc.              
+              p.ps-4.mb-2 Son importantes los datos de contacto del desarrollador o de la empresa que creó la solución informática o con el departamento de atención al cliente, dado el caso que se presente alguna duda relacionada con el producto, garantía, registro, etc.              
               p.text-end.mb-2 #[strong UGUR (2009)]    
               .quote.float-end
                 i.fas.fa-quote-right 
@@ -633,7 +634,7 @@
               img(src="@/assets/curso/temas/t1/t1_34.svg", alt="alt")
           .col-lg-7
             h4 Configuración mínima de inicio rápido
-            p En algunos tipos de #[em software] se publica una guía de “inicio rápido” independiente, además se explica cómo identificar e interpretar cualquier sistema o códigos de hardware y números de serie que vienen con el producto. 
+            p En algunos tipos de #[em software] se publica una guía de “inicio rápido” independiente, además se explica cómo identificar e interpretar cualquier sistema o códigos de #[em hardware] y números de serie que vienen con el producto. 
 
             p Así, se deben incluir gráficos del paso a paso de cómo instalar el #[em software] y mostrar las conexiones de cableado correctas, en caso de que se trate de alguna instalación física.
 

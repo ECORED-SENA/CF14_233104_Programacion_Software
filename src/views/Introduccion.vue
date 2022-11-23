@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p(data-aos="fade-left").mb-5 La implementación de software es la puesta en marcha o ejecución de una solución de software para satisfacer las necesidades de una empresa. A continuación se puede consultar la introducción a este componente, que tiene como propósito identificar los principales elementos de este proceso.
+    p(data-aos="fade-left").mb-5 La implementación de #[em software] es la puesta en marcha o ejecución de una solución de #[em software] para satisfacer las necesidades de una empresa. A continuación se puede consultar la introducción a este componente, que tiene como propósito identificar los principales elementos de este proceso.
 
     figure(data-aos="zoom-in")
       .video

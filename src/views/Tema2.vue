@@ -156,6 +156,8 @@
             .col-12
               p.mb-0 Se adapta a las características individuales de cada participante, considerando sus potencialidades y limitaciones.
 
+    p.mb-5 Se recomienda analizar muy bien las necesidades y contar con la asesoría de un asesor experto, además, revisar antecedentes o experiencias anteriores para seleccionar el tipo de aprendizaje idóneo en cada caso. 
+
     .row.mb-4(data-aos="fade-right")
       .col-auto
         .cstmH3
@@ -202,7 +204,7 @@
           .col-lg-7.order-1.order-lg-2.ps-5.ps-lg-2.position-relative
             .cont.ps-4
               .numb(data-number="04")
-              h4 Coaching corporativo
+              h4 #[em Coaching] corporativo
               p Se busca el desarrollo individual y colectivo en la organización, con el foco en un equipo asertivo, de alto desempeño y comprometido en la mejora de resultados. Se pretende que los colaboradores se sientan parte de la empresa para  alcanzar los resultados esperados.
 
     separador
@@ -328,7 +330,7 @@
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.3 Plan de capacitación
+      h2 2.3 Videotutoriales
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-2.order-lg-1(data-aos="fade-left")

@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Establecer las necesidades del negocio              
+      h1 Labores finales del proceso de implantación            
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t3/t3_01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las labores de pruebas, acta de entrega y mantenimiento de software son las que se realizan para garantizar la entrega del producto de software instalado y configurado de manera correcta.  En las actas se registran tanto la persona que entrega el producto como el cliente que lo recibe, además, se informa a los clientes sobre las políticas y mecanismo de implementación de labores de garantía y de mantenimiento de software.
+        p.mb-0 Las labores de pruebas, acta de entrega y mantenimiento de #[em software] son las que se realizan para garantizar la entrega del producto de #[em software] instalado y configurado de manera correcta.  En las actas se registran tanto la persona que entrega el producto como el cliente que lo recibe, además, se informa a los clientes sobre las políticas y mecanismo de implementación de labores de garantía y de mantenimiento de #[em software].
 
     separador
 
@@ -32,7 +32,7 @@
               figure
                 img(src="@/assets/curso/recursos/rectangle_00.svg", alt="alt").img30
             .col-lg
-              p.mb-0 En el caso de los usuarios, las pruebas van dadas por las necesidades y el contexto que representa a cada uno de los clientes, en otras palabras, la misma prueba no puede servir para todos los escenarios, porque puede ser que una prueba para un software específico sea la adecuada, pero en otro puede llegar a ser perjudicial. En el caso puntual de los clientes se debe hacer una prueba de funcionamiento y rendimiento en el sitio, bajo las condiciones y entorno de la empresa, con las funciones y datos reales, esta prueba debe ser ejecutada y analizada por las dos partes, se puede hacer  en una sola jornada o si el cliente lo desea se puede hacer dos días o hasta en una semana, solo así, el cliente sentirá la seguridad de firmar el acta de entrega a satisfacción.
+              p.mb-0 En el caso de los usuarios, las pruebas van dadas por las necesidades y el contexto que representa a cada uno de los clientes, en otras palabras, la misma prueba no puede servir para todos los escenarios, porque puede ser que una prueba para un #[em software] específico sea la adecuada, pero en otro puede llegar a ser perjudicial. En el caso puntual de los clientes se debe hacer una prueba de funcionamiento y rendimiento en el sitio, bajo las condiciones y entorno de la empresa, con las funciones y datos reales, esta prueba debe ser ejecutada y analizada por las dos partes, se puede hacer  en una sola jornada o si el cliente lo desea se puede hacer dos días o hasta en una semana, solo así, el cliente sentirá la seguridad de firmar el acta de entrega a satisfacción.
 
     .row.justify-content-center.align-items-center
       .col-lg-9.order-2.order-lg-1(data-aos="fade-left")
@@ -60,7 +60,7 @@
     separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="right")
-      h2 3.2 Mantenimiento de software
+      h2 3.2 Mantenimiento de #[em software]
 
     .fullbg.bg--gray.p-4.mb-4
       .row.justify-content-center.align-items-center
@@ -68,14 +68,14 @@
           figure
             img(src="@/assets/curso/temas/t3/t3_04.svg", alt="alt")
         .col-xl-8
-          p(data-aos="fade-left") El eje central de este apartado es indicar cómo se debe realizar el mantenimiento del software de forma adecuada, de tal manera que la calidad del aplicativo no se deteriore como resultado del uso, debe enfocarse en la siguiente pregunta: ¿cómo debe mantenerse el software para preservar su fiabilidad?
+          p(data-aos="fade-left") El eje central de este apartado es indicar cómo se debe realizar el mantenimiento del #[em software] de forma adecuada, de tal manera que la calidad del aplicativo no se deteriore como resultado del uso, debe enfocarse en la siguiente pregunta: ¿cómo debe mantenerse el #[em software] para preservar su fiabilidad?
 
           .row.align-items-center.mb-4(data-aos="fade-left")
             .col-auto.d-none.d-lg-flex 
               figure
                 img(src="@/assets/curso/recursos/rectangle_00.svg", alt="alt").img30
             .col-lg
-              p.mb-0 Esta es la fase que se presenta dentro del ciclo de vida de desarrollo de software después de la fase de puesta en producción o implementación del producto, se caracteriza por:
+              p.mb-0 Esta es la fase que se presenta dentro del ciclo de vida de desarrollo de #[em software] después de la fase de puesta en producción o implementación del producto, se caracteriza por:
 
           .row.justify-content-center
             .col-lg-4.col-10.mb-4.mb-lg-0(data-aos="flip-left")
@@ -100,7 +100,7 @@
                 p.text-center En el momento de detectar los defectos deben ser ingresados en el sistema de rastreo de defectos. 
 
     .cajon.cjn--yellow.p-4.mb-4(data-aos="zoom-in")
-      p.mb-0 El mantenimiento de software se puede clasificar en los siguientes tipos, los cuales se diferencian por el porcentaje aproximado respecto del conjunto de mantenimiento:
+      p.mb-0 El mantenimiento de #[em software] se puede clasificar en los siguientes tipos, los cuales se diferencian por el porcentaje aproximado respecto del conjunto de mantenimiento:
 
     .row.justify-content-center.mb-4
       .col-lg-3.col-10.mb-4.mb-lg-0(data-aos="flip-left")
@@ -143,7 +143,7 @@
             .col.hor--negMargin        
               p.ver-align.text-center.strong.mb-0 Mantenimiento preventivo 
 
-    p(data-aos="fade-left") Recuerde que el mantenimiento de software es una de las actividades más comunes en la ingeniería de software, que consiste en el proceso de mejora y optimización del software desplegado (revisión del programa y corrección de los defectos).   
+    p(data-aos="fade-left") Recuerde que el mantenimiento de #[em software] es una de las actividades más comunes en la ingeniería de #[em software], que consiste en el proceso de mejora y optimización del #[em software] desplegado (revisión del programa y corrección de los defectos).   
               
 
 
