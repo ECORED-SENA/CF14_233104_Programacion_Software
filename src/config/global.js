@@ -161,18 +161,27 @@ export default {
   },
   complementario: [
     {
-      tema: 'Conocimientos en Metodologías de desarrollo de <em>Software</em>',
-      referencia:
-        'Rivas, C. I., Corona, V. P., Gutiérrez, J. F., & Hernández, L. (2015). Metodologías actuales de desarrollo de <em>software</em>. <em>Revista de Tecnología e Innovación, 2(5), 980-986.</em> ',
-      tipo: 'Articulo web',
-      descarga: '/downloads/Tecnologia_e_Innovacion_Vol2_Num5_6.pdf',
+      tema: 'Documentación de procesos de implantación',
+      referencia: 'Castillo, J. (2017). Integración de sistemas',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=V9YM9NeP1_s ',
     },
     {
-      tema: 'Definir el tipo de arquitectura.',
+      tema:
+        'Microsoft. (2021). Consulta las especificaciones, características y requisitos del sistema de Windows 11.',
+      referencia:
+        'Rivas, C. I., Corona, V. P., Gutiérrez, J. F., & Hernández, L. (2015). Metodologías actuales de desarrollo de <em>software</em>. <em>Revista de Tecnología e Innovación, 2(5), 980-986.</em> ',
+      tipo: 'Artículo web',
+      link: 'https://www.microsoft.com/es-ar/windows/windows-11-specifications',
+    },
+    {
+      tema:
+        'Edgepoint learning. (2020). How To Train Employees On a New System Or Technology: 5 Tips.',
       referencia:
         'Garlan, D., & Shaw, M. (1994). <em>An Introduction to software Architecture</em>. School of Computer Science, Carnegie Mellon University.',
-      tipo: 'Articulo web',
-      descarga: '/downloads/intro_softarch.pdf',
+      tipo: 'Artículo web',
+      link:
+        'https://www.edgepointlearning.com/blog/how-to-train-employees-on-new-system/',
     },
   ],
   glosario: [

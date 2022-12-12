@@ -15,7 +15,7 @@
         .col-lg-8(data-aos="fade-left")
           .quote           
             i.fas.fa-quote-left              
-          p.ps-4.mb-2 #[strong la transferencia de conocimientos que se realiza durante todo el proceso de implementación de un sistema. Dicha transferencia de conocimiento debe realizarse a los integrantes del equipo de implementación, entendiendo como tal al conjunto de los usuarios del sistema y los consultores externos, relacionados con el proceso de implementación.]              
+          p.ps-4.mb-2 #[strong La transferencia de conocimientos que se realiza durante todo el proceso de implementación de un sistema. Dicha transferencia de conocimiento debe realizarse a los integrantes del equipo de implementación, entendiendo como tal al conjunto de los usuarios del sistema y los consultores externos, relacionados con el proceso de implementación.]              
           p.text-end #[strong Aisemberg (2021)]    
           .quote.float-end
             i.fas.fa-quote-right
@@ -265,7 +265,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
               h4 Formato
-              p.mb-0 ¿Cómo se realizará?, ¿presencial, en línea o semipresencial?,¿se cuenta con espacios físicos, con la infraestructura tecnológica o ambas?
+              p.mb-0 ¿Cómo se realizará?, ¿presencial, en línea o semipresencial?, ¿se cuenta con espacios físicos, con la infraestructura tecnológica o ambas?
             .col-lg-6(data-aos="zoom-in")
               figure
                 img(src="@/assets/curso/temas/t2/t2_33.svg", alt="alt")
@@ -467,8 +467,8 @@
           .col-lg-7.mb-4.mb-lg-0.ps-5.ps-lg-2.position-relative
             .cont
               .numb(data-number="09")
-              h4 Iluminiación
-              p.mb-0 Verifique la iluminación de su entorno. En caso de que sus videotutoriales no sean grabaciones de pantallas y tenga que grabar los pasos de algún procedimiento, consiga un espacio para grabar con la iluminación correcta.           
+              h4 Iluminación
+              p.mb-0 Verifique la iluminación de su entorno. En caso de que sus videotutoriales no sean grabaciones de pantallas y tenga que grabar los pasos de algún procedimiento, consiga un espacio para grabar con la Iluminación correcta.           
           .col-lg-4.col-8
             figure
               img(src='@/assets/curso/temas/t2/t2_22.svg', alt='')

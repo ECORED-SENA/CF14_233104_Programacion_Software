@@ -285,7 +285,7 @@
           .col-lg-7.order-1.order-lg-2.ms-lg-5.ps-5.ps-lg-2.position-relative
             .cont
               .numb(data-number="03")
-              h4 Prerequisitos
+              h4 Prerrequisitos
               p Dentro de los prerrequisitos de instalación del sistema se encuentran: sistema operativo de los servidores de aplicación y base de datos, marca y versión de la base de datos y de los servidores de aplicación, navegador, configuraciones de seguridad, contenedores, etc. 
 
 
@@ -433,7 +433,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Manuales técnicos
+      h2 1.2 Manuales de usuario
 
     .bg_img_02.mb-5
       figure(data-aos="zoom-in")
@@ -481,7 +481,7 @@
                 ul.fa-ul.mb-0
                   li
                     i.fas.fa-caret-right.txt--orange02.me-2
-                    | Prerequisitos para el uso del sistema de información por parte del usuario final. 
+                    | Prerrequisitos para el uso del sistema de información por parte del usuario final. 
                   li
                     i.fas.fa-caret-right.txt--orange02.me-2
                     | Configuración del sistema en el computador del usuario.
@@ -551,7 +551,7 @@
               .numb_02(data-nb="03")
               figure.mb-4
                 img(src="@/assets/curso/temas/t1/t1_31.svg", alt="alt").img90.m-auto   
-              h4.text-center.mb-4 Rollback            
+              h4.text-center.mb-4 #[em Rollback]           
               p.text-center Definir el proceso de marcha atrás en la ejecución de alguno de los pasos, en caso de ser necesario.
 
     p(data-aos="fade-left").mb-4 Entonces, además de lo anterior ¿qué otros componentes se incluyen en el manual de instalación? 
@@ -597,7 +597,7 @@
                 td Pantalla de alta definición (720p) de más de 9” en diagonal, con canal de 8 bits por color.
               tr
                 td Conexión a Internet y cuentas de Microsoft
-                td Windows 11 Home requiere conexión a Internet y una cuenta de Microsoft.El cambio fuera de Windows 11 en modo S también requiere conexión a Internet.Para todas las ediciones de Windows 11 se requiere acceso a Internet para poder realizar actualizaciones, así como para descargar y aprovechar algunas de las características. Para algunas características se requiere una cuenta de Microsoft.
+                td Windows 11 Home requiere conexión a Internet y una cuenta de Microsoft. El cambio fuera de Windows 11 en modo S también requiere conexión a Internet. Para todas las ediciones de Windows 11 se requiere acceso a Internet para poder realizar actualizaciones, así como para descargar y aprovechar algunas de las características. Para algunas características se requiere una cuenta de Microsoft.
               tr.cell--gray  
                 td TMP
                 td Módulo de plataforma segura (TPM) versión 2.0.
