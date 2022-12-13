@@ -162,7 +162,7 @@ export default {
   complementario: [
     {
       tema: 'Documentación de procesos de implantación',
-      referencia: 'Castillo, J. (2017). Integración de sistemas',
+      referencia: 'Implantación y Aceptación del Sistema de Información (IAS)',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=V9YM9NeP1_s ',
     },
